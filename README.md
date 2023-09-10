@@ -1,2 +1,2 @@
-# cursodds
-Cubos Academy
+# Meu primeiro repositório para o curso de DDS
+
